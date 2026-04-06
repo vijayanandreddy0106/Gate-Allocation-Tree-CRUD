@@ -107,3 +107,19 @@ Compilation Instructions:-
   
   
     Linked List: 10 -> 20 -> NULL
+
+sample output screenshots:-
+
+
+<img width="895" height="520" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/3aedde26-c682-4abb-9f73-6b4dc87c94e2" />
+
+<img width="1100" height="572" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/a21de048-c5b5-46c3-a0a7-88917db07492" />
+
+<img width="1125" height="592" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/7dba1326-9e39-4fb0-8a9b-3e4a7542e2b9" />
+
+<img width="1174" height="662" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/bc92ba44-2e84-477b-9944-a44eee1fa48a" />
+
+
+
+
+
